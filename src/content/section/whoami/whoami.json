@@ -1,0 +1,17 @@
+{
+  "title": "Dott.ssa Silvia Castelletti",
+  "subtitle": "psicologa clinica",
+  "intro": "",
+  "image": {
+    "linkTo": "",
+    "alt": "Silvia Castelletti Psicologa e Psicoterapeuta"
+  },
+  "ctaButton": {
+    "label": "Come lavoro",
+    "url": "#comelavoro"
+  },
+  "ctaButton2": {
+    "label": "Contatti",
+    "url": "#contatti"
+  }
+}

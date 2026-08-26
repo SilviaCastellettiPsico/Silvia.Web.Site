@@ -1,0 +1,24 @@
+{
+  "title": "Dove ricevo",
+  "intro": "",
+  "image1": {
+    "linkTo": "",
+    "alt": "Studio di psicologa e psicoterapia a Clusone"
+  },
+  "image2": {
+    "linkTo": "",
+    "alt": "Studio di psicologa e psicoterapia a Clusone"
+  },
+  "image3": {
+    "linkTo": "",
+    "alt": "Studio di psicologa e psicoterapia a Clusone"
+  },
+  "ctaButton1": {
+    "label": "Indicazioni Beragmo",
+    "url": "https://maps.app.goo.gl/fTa68xgAC1P8grHRA"
+  },
+  "ctaButton2": {
+    "label": "Clusone",
+    "url": "https://maps.app.goo.gl/xa4iN2w79J5eXXFB7"
+  }
+}

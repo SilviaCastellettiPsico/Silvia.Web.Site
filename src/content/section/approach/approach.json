@@ -1,0 +1,12 @@
+{
+  "title": "Il mio approccio",
+  "intro": "",
+  "image": {
+    "linkTo": "",
+    "alt": "Studio di psicologa"
+  },
+  "ctaButton": {
+    "label": "Contatti",
+    "url": "#contatti"
+  }
+}

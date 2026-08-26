@@ -1,0 +1,17 @@
+{
+  "name": "Silvia Castelletti Psicologa",
+  "short_name": "S. Castelletti",
+  "description": "Psicologa clinica e psicoterapeuta sistemico-dialogica.",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#f1fcfc",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
