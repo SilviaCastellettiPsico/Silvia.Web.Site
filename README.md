@@ -1,32 +1,33 @@
 # Silvia Castelletti Psicologa
 
-Sito realizzato con React + Vite.
+Website built with React + Vite.
 
-## Comandi
+## Commands
 
 ```bash
-npm install     # installa le dipendenze
-npm run dev     # avvia il server di sviluppo su http://localhost:8000
-npm run build   # build di produzione in dist/
-npm run preview # anteprima locale della build
+npm install     # install dependencies
+npm run dev     # start the dev server on http://localhost:8000
+npm run build   # production build in dist/
+npm run preview # preview the build locally
 ```
 
-## Struttura
+## Structure
 
-- `src/content` — testi del sito (JSON + Markdown), modificabili senza toccare i componenti
-- `src/section` — sezioni della home page (Chi sono, Come lavoro, Il mio approccio, Dove ricevo, Contatti)
-- `src/components` — componenti condivisi (Layout, Header, Footer, Card, Input, TextArea, SEO)
-- `src/pages` — pagine associate alle rotte
-- `src/assets/images` — immagini importate dai componenti
+- `src/content` — site copy (JSON + Markdown), editable without touching the components
+- `src/section` — home page sections (Who I am, How I work, My approach, Where I receive, Contacts)
+- `src/components` — shared components (Layout, Header, Footer, Card, Input, TextArea, SEO)
+- `src/pages` — pages mapped to routes
+- `src/assets/images` — images imported by the components
 
-## Configurazione
+## Configuration
 
-L'endpoint della Azure Function che invia le email è configurabile tramite la
-variabile d'ambiente `VITE_SEND_EMAIL_API_URL` (file `.env`). Se non impostata
-viene usato l'endpoint di produzione.
+The Azure Function endpoint used to send emails is configurable via the
+`VITE_SEND_EMAIL_API_URL` environment variable (`.env` file). If not set,
+the production endpoint is used.
 
 ## Deploy
 
-Il sito è una Single Page Application: il server deve rispondere con
-`index.html` per tutte le rotte sconosciute. Per Azure Static Web Apps la
-regola è già inclusa in `public/staticwebapp.config.json`.
+The site is a Single Page Application: the server must respond with
+`index.html` for all unknown routes. For Azure Static Web Apps the rule
+is already included in `public/staticwebapp.config.json`. For Netlify,
+the fallback rule is included in `public/_redirects` and `netlify.toml`.

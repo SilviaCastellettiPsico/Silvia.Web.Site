@@ -1,5 +1,3 @@
-Ricevo a Bergamo in Piazzale Lodovico Goisis, 1. Qui collaboro con il centro clinico “Il Dialogo”. Clicca **[QUI](https://www.centroildialogo.it/)** per scoprire di più.
+Ricevo in due studi: a **Bergamo**, in Piazzale Lodovico Goisis, 1, dove collaboro con il centro clinico [Il Dialogo](https://www.centroildialogo.it/), e a **Clusone**, in Via Lodovico Franzini, 13.
 
-Ricevo anche a Clusone in Viale Europa, 46.
-
-Sono disponibile per colloqui online.
+Sono disponibile anche per colloqui online.

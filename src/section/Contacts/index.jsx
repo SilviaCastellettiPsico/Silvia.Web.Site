@@ -55,7 +55,7 @@ export function Contacts({ sectionId }) {
         pending: "Invio in corso...",
         success: "Email inviata con successo!",
         error: "Errore durante l'invio della email. Riprova.",
-      }
+      },
     );
 
     return promise;
