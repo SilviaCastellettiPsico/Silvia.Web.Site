@@ -22,8 +22,8 @@ export function Seo({ title }) {
       name: "Silvia Castelletti",
       jobTitle: "Psicologa Clinica e Psicoterapeuta Sistemico-Dialogica",
       sameAs: [
-        "https://www.instagram.com/silvia.castelletti.psico/",
-        "https://www.guidapsicologi.it/studio/dottssa-silvia-castelletti",
+        "https://www.instagram.com/silviacastelletti.psicologa/",
+        "https://www.guidapsicologi.it/studio/dottssa-silvia-castelletti/",
       ],
     },
     potentialAction: {
